@@ -1,5 +1,7 @@
 # Compressing Volumetric Radiance Fields to 1 MB
 
+<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Li_Compressing_Volumetric_Radiance_Fields_to_1_MB_CVPR_2023_paper.html"><img src="https://openaccess.thecvf.com/img/cvpr2023_logo.svg" height=40 width=100></a>
+
 Lingzhi Li*, Zhen Shen*, Zhongshu Wang, Li Shen, Liefeng Bo
 
 Alibaba Group
