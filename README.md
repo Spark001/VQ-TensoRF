@@ -1,18 +1,19 @@
 # Compressing Volumetric Radiance Fields to 1 MB
 
-<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Li_Compressing_Volumetric_Radiance_Fields_to_1_MB_CVPR_2023_paper.html"><img src="https://openaccess.thecvf.com/img/cvpr2023_logo.svg" height=40 width=100></a>
+## [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Compressing_Volumetric_Radiance_Fields_to_1_MB_CVPR_2023_paper.html)
 
-Lingzhi Li*, Zhen Shen*, Zhongshu Wang, Li Shen, Liefeng Bo
 
-Alibaba Group
+**Update**: 🤗 We update our compressed models in [ModelScope](https://modelscope.cn/models/DAMOXR/cv_nerf_3d-reconstruction_vector-quantize-compression/summary), so you can test the models and render videos easily.
 
+我们在[魔搭](https://modelscope.cn/models/DAMOXR/cv_nerf_3d-reconstruction_vector-quantize-compression/summary)上更新了压缩后的模型，更方便的支持在线测试和渲染视频。
 
 ![compression](figures/teaser.png)
 
 ![Pipeline](figures/pipeline.png)
 
 **Note**: This repository only contain VQ-TensoRF. 
-VQ-DVGO please refer to [VQRF](https://github.com/AlgoHunt/VQRF)
+
+VQ-DVGO please refer to [VQRF](https://github.com/AlgoHunt/VQRF).
 
 
 ## Setup
